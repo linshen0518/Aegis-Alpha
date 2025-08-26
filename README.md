@@ -25,7 +25,9 @@
 
 ## 📊 策略績效展示
 
-### NAV 與 MDD 趨勢圖
+### NAV 與 MDD 趨勢圖 
+bench mark：納斯達克、統一 FANG+ 00757、XLK ETF  
+主策略：神盾 Alpha
 ![NAV_MDD](./神盾1.png)
 
 ---
